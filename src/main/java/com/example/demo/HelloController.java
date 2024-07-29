@@ -27,5 +27,5 @@ public class HelloController {
 	            e.printStackTrace();
 	            return "Error processing JSON: " + e.getMessage();
 	        }
-	    
+        }
 }
