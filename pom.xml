@@ -53,10 +53,15 @@
 			<artifactId>jackson-annotations</artifactId>
 		</dependency>
 		<dependency>
+			<groupId>org.everit.json</groupId>
+			<artifactId>org.everit.json.schema</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<!--<dependency>
 			<groupId>com.github.fge</groupId>
 			<artifactId>json-patch</artifactId>
 			<version>1.9</version>
-		</dependency>
+		</dependency>-->
 	</dependencies>
 
 	<build>
